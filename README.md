@@ -1,4 +1,4 @@
-Virtual Machine/Assembler for mattbatwings new redstone CPU. Read below instructions and controls.
+AUR version of the Virtual Machine/Assembler for mattbatwings new redstone CPU. Read below instructions and controls.
 
 Instructions:
 Drag a .as file onto the program to load it.
