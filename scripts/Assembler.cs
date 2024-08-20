@@ -11,7 +11,7 @@ class Assembler
 	{
 		string pythonPath = "python3";
 		
-		string scriptPath = @"/opt/batpu2-vm/assembler/assembler.py";
+		string scriptPath = "/opt/batpu2-vm/assembler/assembler.py";
 
 		ProcessStartInfo start = new ProcessStartInfo
 		{
