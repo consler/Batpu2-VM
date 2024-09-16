@@ -5,7 +5,7 @@
 ### Instructions:
 Drag a .as file onto the program to load it.
 
-Make sure that python is installed and that the python command in the command line works correctly (comes preinstalled if installed using AUR)
+Make sure that python is installed and that the python command in the command line works correctly (comes preinstalled on the linux kernel)
 
 Press control+s or f5 to save the assembly code and assemble and load the bytecode,
 
